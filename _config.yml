@@ -1,3 +1,5 @@
-remote_theme: sergiokopplin/indigo
+remote_theme: minima
+minima:
+  skin: dark
 
 title: Laith Hijazi's Blogsite
