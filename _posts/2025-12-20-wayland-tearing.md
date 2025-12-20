@@ -10,7 +10,7 @@ however, even today, i am having to switch back and forth between two window man
 
 **screen tearing on Wayland absolutely sucks.**
 
-> but Laith, why would you ever want screen tearing? isn't it good that this behavior has poor support on Wayland?
+> but why would you ever want screen tearing? isn't it good that this behavior has poor support on Wayland?
 
 in theory, yes, preventing screen tearing is a good thing, but it has its downsides. for the gamers reading this, the term "V-sync" may sound familiar to you. screen tearing is what happens when you do not have V-sync enabled. V-sync is short for "vertical sync", and when it is enabled, it does exactly what it sounds like it does; it ensures that when pixels are being rendered to your screen, they all render at the exact same time, and the drawing process is synced vertically with the rest of the screen in correspondence to your monitor's refresh rate. when V-sync is disabled, you experience what is called "screen tearing" or "immediate presentation" which draws pixels to the screen as soon as they are ready instead of waiting for them to sync with each other in any way.
 
