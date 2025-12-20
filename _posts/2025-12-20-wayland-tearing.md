@@ -26,7 +26,7 @@ well, not exactly. far from it, actually.
 
 wayland compositors that support this protocol are aware of its lack of compatibility. for example, [hyprland's documentation](https://wiki.hypr.land/Configuring/Tearing/) states the following:
 
-![[Pasted image 20251220143138.png]]
+![[attachments/Pasted image 20251220143138.png]]
 
 *yikes*.
 
