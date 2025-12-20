@@ -1,2 +1,7 @@
-title: Laith Hijazi's Blogsite
 theme: minima
+
+title: Laith Hijazi's Blogsite
+author:
+  name: Laith Hijazi
+minima:
+  skin: dark
