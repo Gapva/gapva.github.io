@@ -1,7 +1,6 @@
 remote_theme: jekyll/minima
 minima:
   skin: dark
+  hide_site_feed_link: true
 
 title: Laith's Lax Loft
-
-hide_site_feed_link: true
