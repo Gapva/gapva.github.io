@@ -3,3 +3,5 @@ minima:
   skin: dark
 
 title: Laith's Lax Loft
+
+hide_site_feed_link: true
