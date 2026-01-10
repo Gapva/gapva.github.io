@@ -26,7 +26,7 @@ if you thought the post in the screenshot wasn't bad enough, here's this:
 
 ![](https://i.postimg.cc/9M0W7CVg/image.png)
 
-i barely even have words for this. "ah, yes; to get around this issue, you should do the exact thing that the proponent (and many others) are trying to avoid doing because i said so and, once again, my opinion is the ultimatum and i said so, therefore you should feel ashamed for making this post." and the icing on the cake is the random new thread member saying "yeah, i agree with Mr. Ultimatum", refusing to elaborate, and then closing the post as "completed" himself despite tens of people still actively trying to discuss it. the whole thing just blows my mind.
+i barely even have words for this. "ah, yes; to get around this issue, you should do the exact thing that the proponent (and many others) are trying to avoid doing because, once again, my opinion is the ultimatum and i said so, therefore you should feel ashamed for making this post." and the icing on the cake is the random new thread member saying "yeah, i agree with Mr. Ultimatum", refusing to elaborate, and then closing the post as "completed" himself despite tens of people still actively trying to discuss it. the whole thing just blows my mind.
 
 > yeah, but why is this an actual issue? it's annoying, but does it actually affect anything massively?
 
