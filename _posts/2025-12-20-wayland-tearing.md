@@ -1,7 +1,7 @@
 ---
 layout: post
 title: we need to talk about Wayland's tearing protocol
-date: 2025-12-20 13:00:00 -0400
+date: 2025-12-20 13:00:00 -0300
 ---
 
 Wayland is everyone's favorite modern display protocol for Linux-based operating systems. a couple of years ago, it was in a very immature state and people who were experimenting with the protocol often had to switch back to an Xorg session to do their usual things.

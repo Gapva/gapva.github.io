@@ -1,7 +1,7 @@
 ---
 layout: post
 title: i don't like open-source keyboard warriors
-date: 2026-01-10 13:32:00 -0400
+date: 2026-01-10 13:32:00 -0300
 ---
 
 hi, all. happy new years! it's been a couple weeks since my previous post here, but i'm back. before i say anything, i need to make it clear that i am a **supporter** of open-source software, and that this article is in no way an attack on the open-source ecosystem. with that being said, today i want to touch on something that irks me a lot; **the way some people behave within open-source**.

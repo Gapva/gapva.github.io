@@ -1,7 +1,7 @@
 ---
 layout: post
 title: you're compressing your files incorrectly
-date: 2025-12-21 18:42:00 -0400
+date: 2025-12-21 18:42:00 -0300
 ---
 
 it doesn't matter what compression format you use; `.zip`, `.rar`, `.7z`, `.tar.gz` or whatever else it may be, you are probably doing it wrong.
